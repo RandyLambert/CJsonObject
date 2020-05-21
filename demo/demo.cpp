@@ -19,7 +19,6 @@ int main()
     cout<<endl;
     cout<<endl;
     cout<<endl;
-    cout<<endl;
      oJson1.AddEmptySubArray("insert");
      oJson1["insert"].Add("1");
      oJson1["insert"].Add("dsd1");
